@@ -2,7 +2,7 @@
 
 This Netflix Titles Dashboard is an interactive tool for navigating the Netflix dataset and analyzing content trends and patterns. Users may choose by content type (movies or TV shows), release year range, genres, and runtime, and examine insights through three dynamic plots.
 
-<img src="https://github.com/user-attachments/assets/386fcf21-5655-41bf-9ba0-9428f60f66da" width="200">
+<img src="https://github.com/user-attachments/assets/386fcf21-5655-41bf-9ba0-9428f60f66da" width="400">
 
 Dataset: 🔗 Bansal, S. (2019). Netflix shows and movies - Exploratory analysis [Dataset]. Kaggle. Retrieved from https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysis/input
 
